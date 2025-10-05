@@ -18,4 +18,6 @@ The `Server` class starts by creating a **ServerSocket** object bound to port `1
 
 *OUTPUT* :
 
+<img width="1873" height="437" alt="Image" src="https://github.com/user-attachments/assets/b2b48c7e-cb1b-4405-a4b5-03692b221bd3" />
+
 
